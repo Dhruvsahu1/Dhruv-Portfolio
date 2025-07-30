@@ -137,7 +137,7 @@ const Footer = () => {
           className="border-t border-dark-700 mt-12 pt-8 text-center"
         >
           <p className="text-gray-400">
-            © 2024 Dhruv Sahu. All rights reserved.
+            © {new Date().getFullYear()} Dhruv Sahu. All rights reserved.
           </p>
         </motion.div>
       </div>
