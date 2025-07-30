@@ -106,13 +106,10 @@ The portfolio is fully responsive and includes:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📞 Contact
+9125225751
 
-For any questions or suggestions, please reach out to dhruv@example.com
+For any questions or suggestions, please reach out to dhruvsahu7355@gmail.com
 
 ---
 
